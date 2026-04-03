@@ -1,0 +1,14 @@
+How to use these two diagrams in your presentation
+The first diagram is your "before" story — the causal chain that makes the problem feel inevitable. 
+You start with a real trigger (large catalog), show how manual process produces specific named failures, show how the templated workaround makes it worse, and land on the gap statement. 
+Every box directly maps to a sentence in the problem statement.
+The second diagram is your empathy map. Four real roles inside a retailer, each with a quoted pain in their own voice. 
+This is the diagram that makes judges feel the problem rather than just understand it. The end customer box in the middle (amber) connects all internal pain to the external consequence — lost revenue.
+When you present the solution next, each of your features directly answers one of these pain nodes:
+
+Slow & costly → batch generation with progress bar
+Inconsistent brand voice → brand voice analyzer
+Features not highlighted → USP extractor
+Poor SEO → keyword enricher
+Generic templates → personalized AI writing with tone config
+Launch delays → bulk processing, export ready CSV
