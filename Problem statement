@@ -1,0 +1,20 @@
+What the problem explicitly asks for:
+
+Accepts structured product attributes (JSON, CSV) ✓
+Batch input processing ✓
+Customizable tone/style prompts ✓
+Simple web UI for input/output ✓ → Streamlit
+Synthetic product data generation ✓
+Description quality ratings (success metric) ✓ → this means a visible score
+Generation speed metric ✓ → show time taken
+Preprocessing: attribute normalization and validation ✓
+Consistency across SKUs ✓
+"Feel free to explore creative solutions" → creativity wins
+
+
+Creative features I'm adding that directly map to the problem's pain points:
+The problem says "templated descriptions lack personalization and fail to highlight unique product features." 
+So I'm adding a USP Extractor step that explicitly identifies what makes each product unique before writing. 
+The problem mentions "lost sales opportunities" → add a Conversion Hook generator that writes a punchy opening line optimized for clicks. 
+"Brand voice" is mentioned → add a Brand Voice Analyzer that learns from a sample paste. 
+"Content consistency" is a success metric → add a Consistency Checker that ensures all batch outputs follow the same structural pattern.
